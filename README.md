@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Heitor-S-Correia
 - 👀 I’m interested in  programação, estou trilhando esse novo caminho em busca de conhecimento, buscando cada vez mais experiências positivas e claro negativas.
-- 🌱 I’m currently learning  frontend
-- 💞️  Atualmente estou aprendendo frontend. 
+- 🌱 I’m currently learning  Desenvolvimento Web
+- 💞️  Atualmente estou aprendendo Desenvolvimento Web. 
 - 📫 How to reach me ...
 
 <!---
